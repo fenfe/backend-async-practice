@@ -14,3 +14,4 @@ async function checkInventory(){
         console.log("Something went wrong!")
     }
 }
+checkInventory();
